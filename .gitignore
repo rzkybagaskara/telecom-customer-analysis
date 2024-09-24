@@ -1,0 +1,11 @@
+#ignore venv
+.venv
+
+#ignore documents
+/References
+
+#ignore images
+/Images
+
+#ignore zip files
+/ZIP
