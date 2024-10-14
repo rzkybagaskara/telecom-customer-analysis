@@ -1,6 +1,9 @@
 #ignore venv
 .venv
 
+#ignore dump files
+.dump-notebook.ipynb
+
 #ignore documents
 /References
 
