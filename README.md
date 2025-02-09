@@ -6,14 +6,13 @@ Dataset Link: https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-
 
 ### Objectives
 - Conduct tests for hypothesis using a statistical test
-- Create a model to determine the relationship/association between certain features from the dataset
+- Create a linear model to determine the relationship/association between certain features from the dataset
 
 ### Analysis Types
 a. Statistical Test (T-Test)
 
 b. Weighted Least Squares Regressions
 - Single Predictor
-
 - Multiple Predictor
 
 ### Environment
